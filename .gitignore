@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.m4a
+*.txt
+
+.env
+.venv/
+venv/
+
+.idea/
+.vscode/
+
+tmp/
+temp/
